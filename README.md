@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-- 📫 How to reach me **devendra.kuamr2021@vitbhopal.ac.in**
+- 📫 How to reach me **devendrasahu3837@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -115,21 +115,33 @@ Here are some ideas to get you started:
 
 ###
 
-### GitHub Streak
+### GitHub Stats
 
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=devendrakumarsahu09&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devendrakumarsahu09&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakumarsahu09&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=devendrakumarsahu09&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+</div>
+
+<br />
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendrakumarsahu09&theme=tokyonight" alt="devendrakumarsahu09" />
 </p>
-<!--
+
 <p align="right">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devendrakumarsahu09&theme=tokyonight" alt="devendrakumarsahu09" />
 </p>
--->
+
 
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=devendrakumarsahu09&theme=gruvbox_light&layout=compact"/>
 </div>
-
+-->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devendrakumarsahu09&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="devendrakumarsahu09" />
 </div>
